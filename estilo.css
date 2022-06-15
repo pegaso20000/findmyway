@@ -1,0 +1,93 @@
+li{
+    
+    display: inline-block;
+    padding: 30px;
+    font: oblique bold 130% cursive;
+    
+    
+
+}
+
+
+.conten{
+    background-image: url(imagenes/fondo.PNG);
+    width: 100%;
+    height: 750px;   
+    background-size: cover;
+    position: relative;
+    opacity: 0.7;
+    
+}
+
+
+.Titulo_find{
+    
+    display: inline-block;
+    font: oblique bold 110% cursive;
+    
+
+}
+
+.texto_inicio{
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    background-color: aliceblue;
+    
+
+}
+
+/*Estilos para quejas*/
+
+.form_quejas{
+	position:relative;
+	width:500px;
+	height:670px;
+	padding-left: 20px;
+	padding-top: 15px;
+	background-color:#e5dfcd;
+	border-radius: 20px;
+	margin:auto;
+	
+}
+
+.boton_cancelar{
+	
+	padding-left: 150px;
+	
+}
+
+input[type=text],[type=email]{
+	width:470px;
+	height:35px;
+	font: 14px normal normal uppercase helvetica, arial, serif;  
+}
+
+textarea{
+	width: 470px;
+	height: 200px;
+	font: 14px normal normal uppercase helvetica, arial, serif;
+}
+
+input[type=submit]{
+	position:relative;
+	width:150px;
+	height:40px;
+	border-radius:20px;
+	margin-left: 150px;
+	border:0px;
+	background-color:#32A43E;
+	font: 14px normal normal uppercase helvetica, arial, serif;
+}
+
+
+
+.p1{
+	text-shadow:0 1px 0 #fff;
+	font-size:20px;
+}
+
+
+
+.body_fondo{
+	background: #29292B;
+}
