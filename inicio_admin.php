@@ -3,7 +3,7 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>Inicio admin</title>
+	<title>Inicio Cliente</title>
 	<link rel="icon" href="imagenes/icon.png">
 	<link rel="stylesheet" href="estilo_inicio_admin.css">
 </head>
