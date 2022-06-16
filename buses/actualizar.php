@@ -35,7 +35,7 @@ $row=mysqli_fetch_array($query);
                                 <select name="flota" class="form-control mb-3" >
                                     <option label="Mantener flota existente" value="<?php echo $row['flota']  ?>"></option>
                                     <option label="las galaxia" value="las galaxia"></option>
-                                    <option label="mi universo" value="mi universo"></option>
+                                    <option label="via universo" value="via universo"></option>
                                     <option label="via futuro" value="via futuro"></option>
                                     
                                 </select>
